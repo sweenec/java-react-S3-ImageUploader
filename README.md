@@ -1,7 +1,7 @@
 # Java React S3 Image Uploader
 
 Image Uploader built using Spring Boot, React and AWS S3.
-*React code not included*
+*(React code not included)*
 
 This project was built to practice building a REST API in Spring Boot and connecting it to a front end.
 I used an in-memory database with 2 users.
